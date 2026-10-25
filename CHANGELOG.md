@@ -6,11 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.125.2](https://github.com/promptfoo/promptfoo/compare/0.125.1...0.125.2) (2026-10-25)
 
-
 ### Bug Fixes
 
-* **examples:** support Google ADK telemetry v2 ([#11956](https://github.com/promptfoo/promptfoo/issues/11956)) ([22df9a5](https://github.com/promptfoo/promptfoo/commit/22df9a560d4185c7584ed9302dc4f3b4ccacf5dd))
-* **redteam:** upgrade the CloudSwag example to Anthropic v2 ([#11913](https://github.com/promptfoo/promptfoo/issues/11913)) ([6a5ee15](https://github.com/promptfoo/promptfoo/commit/6a5ee150ce2b1d5c44e88b5038a68f0300f04ece))
+- **examples:** support Google ADK telemetry v2 ([#11956](https://github.com/promptfoo/promptfoo/issues/11956)) ([22df9a5](https://github.com/promptfoo/promptfoo/commit/22df9a560d4185c7584ed9302dc4f3b4ccacf5dd))
+- **redteam:** upgrade the CloudSwag example to Anthropic v2 ([#11913](https://github.com/promptfoo/promptfoo/issues/11913)) ([6a5ee15](https://github.com/promptfoo/promptfoo/commit/6a5ee150ce2b1d5c44e88b5038a68f0300f04ece))
 
 ## [0.125.1](https://github.com/promptfoo/promptfoo/compare/0.125.0...0.125.1) (2026-10-25)
 
